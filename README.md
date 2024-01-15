@@ -1,6 +1,7 @@
 # mitron-bank-dashboard
 #### My solution for: https://codebasics.io/challenge/codebasics-resume-project-challenge
 A dashboard built with Power BI to report insights, analysis, and key findings to the strategy team of Mitron Bank. This analysis is expected to guide them in tailoring the credit cards to customer needs and market trends. 
+
 Mitron Bank is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of credit cards, aiming to broaden its product offerings and reach in the financial market.
 
 ## Task:
